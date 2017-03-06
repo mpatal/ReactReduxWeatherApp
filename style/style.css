@@ -1,0 +1,7 @@
+.search-span { 
+    float: left;
+    margin-left: 10px;
+    margin-top: 25px;
+    position: relative;
+    z-index: 5;    
+}
